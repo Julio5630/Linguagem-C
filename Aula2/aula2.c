@@ -6,6 +6,6 @@ int main(){
     char letra = 'A';
 
     printf("idade: %d\n", idade);
-    printf("altura: %d\n", altura);
-    printf("letra: %d\n", letra); 
+    printf("altura: %f\n", altura);
+    printf("letra: %c\n", letra); 
 }
